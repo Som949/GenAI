@@ -1,0 +1,2 @@
+Hello, I am now editing the content of this file for practice purposeI am learning python and I am enjoying it
+I am learning GenAI 
